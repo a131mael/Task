@@ -1,0 +1,2 @@
+http://localhost/Escolar/page/mototista/index.xhtml
+http://localhost/Escolar/page/motorista/index.xhtml
